@@ -6,6 +6,25 @@
 ![THUMB_4004_lcd](https://github.com/user-attachments/assets/ba5e22dd-6bac-4415-b936-5f018af87571)
 
 
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- 4004 LCD Display: https://s.click.aliexpress.com/e/_c3HKMqvJ
+- Arduino UNO - https://s.click.aliexpress.com/e/_AXDw1h
+- 4004 LCD Library: https://www.surenoo.com/products/6791632?variant_sku_code=6791632-5772717-26634711-5803041-26634714-0-0
+- LCD Smartie: https://github.com/LCD-Smartie/LCDSmartie/releases
+- Supported Characters: https://docs.wokwi.com/parts/wokwi-lcd1602#a00-variant
+
+Related videos with character displays:
+- 3D on 16x2 Character Display: https://youtu.be/IvMauAxWPkQ
+- Smooth Gauge - No Custom Characters: https://youtu.be/MEhJtpkjwnc
+- small display - BIG DIGITS: https://youtu.be/SXSujfeN_QI
+- 1 DISPLAY 3 SENSORS: https://youtu.be/lj_7UmM0EPY
+- DIY Battery Indicator (Arduino Project): https://youtu.be/Mq0WBPKGRew
+- Smooth Arduino 16x2 Gauge: https://youtu.be/cx9CoGqpsfg
+- Arduino Gauge in 11 Minutes ???: https://youtu.be/upE17NHrdPc
+
+
+_This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
 
 Small Animation:
 

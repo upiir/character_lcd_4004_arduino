@@ -1,7 +1,7 @@
 # 40x4 Character LCD with Arduino UNO
 40x4 Character LCD with Arduino UNO
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/H3GYU58Y6GM**
 
 ![THUMB_4004_lcd](https://github.com/user-attachments/assets/ba5e22dd-6bac-4415-b936-5f018af87571)
 

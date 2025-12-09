@@ -8,7 +8,7 @@
 
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
-- 4004 LCD Display: https://s.click.aliexpress.com/e/_c3HKMqvJ
+- 4004 LCD Display: https://s.click.aliexpress.com/e/_c4rRow1X
 - Arduino UNO - https://s.click.aliexpress.com/e/_AXDw1h
 - 4004 LCD Library: https://www.surenoo.com/products/6791632?variant_sku_code=6791632-5772717-26634711-5803041-26634714-0-0
 - LCD Smartie: https://github.com/LCD-Smartie/LCDSmartie/releases
